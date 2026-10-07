@@ -1,0 +1,6 @@
+{
+  "name": "Devils Deck",
+  "description": "The dark party companion for Devil's Deck card game by Assholes Live Forever. Draw brutal prompts, track sins, and unleash party chaos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
